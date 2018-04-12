@@ -14,7 +14,7 @@ public class EurekaServer {
 
     public static void main(String[] args) {
         SpringApplication.run(EurekaServer.class,args);
-        System.out.printf("创建项目的主干：master");
+        System.out.printf("eureka注册中心");
     }
 
 }
