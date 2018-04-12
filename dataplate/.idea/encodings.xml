@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org-sc-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org-sc-eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/org-sc-provider" charset="UTF-8" />
+    <file url="file://F:/文档库/楼宇平台/wxSmallFrame/entrytask" charset="UTF-8" />
+    <file url="file://F:/文档库/楼宇平台/wxSmallFrame/entrytask/entrytask-api" charset="UTF-8" />
+    <file url="file://F:/文档库/楼宇平台/wxSmallFrame/entrytask/entrytask-bus" charset="UTF-8" />
+    <file url="file://F:/文档库/楼宇平台/wxSmallFrame/entrytask/entrytask-server" charset="UTF-8" />
+  </component>
+</project>
