@@ -14,7 +14,7 @@ public class EurekaServer {
 
     public static void main(String[] args) {
         SpringApplication.run(EurekaServer.class,args);
-        System.out.printf("dateplate_lydateDvp");
+        System.out.printf("创建dataplate分支项目：dateplate_lydateDvp");
     }
 
 }
