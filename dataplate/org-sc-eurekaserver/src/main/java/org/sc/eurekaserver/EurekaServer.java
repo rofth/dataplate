@@ -14,7 +14,7 @@ public class EurekaServer {
 
     public static void main(String[] args) {
         SpringApplication.run(EurekaServer.class,args);
-        System.out.printf("idea git branch......");
+        System.out.printf("dateplate_lydateDvp");
     }
 
 }
