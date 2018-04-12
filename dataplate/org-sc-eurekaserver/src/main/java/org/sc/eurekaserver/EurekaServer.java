@@ -14,7 +14,6 @@ public class EurekaServer {
 
     public static void main(String[] args) {
         SpringApplication.run(EurekaServer.class,args);
-        System.out.printf("eureka注册中心-Branch");
     }
 
 }
