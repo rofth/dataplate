@@ -52,7 +52,8 @@
     <modules>
         <module>org-sc-provider</module> <!-- 服务提供者 -->
         <module>org-sc-consumer</module> <!-- 服务消费者 -->
-        <module>org-sc-eurekaserver</module> <!-- 服务注册中心 -->
+        <module>org-sc-eurekaserver</module>
+        <module>org-sc-common</module> <!-- 服务注册中心 -->
     </modules>
 
 
