@@ -26,5 +26,6 @@ public class ProviderApplication {
         SpringApplication.run(ProviderApplication.class,args);
         System.out.printf("---");
         System.out.printf("--->>>");
+        System.out.printf("+++>>>");
     }
 }
